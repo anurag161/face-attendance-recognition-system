@@ -7,4 +7,4 @@ gets stored on the Firebase and then an excel sheet of attendance is created
 which is the final input. The additional backend for face recognition was
 implemented on the pycharm platform using open-cv python.
 
-You can get the souce files in master branch
+You can get the source files in master branch
